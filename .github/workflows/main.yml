@@ -5,4 +5,4 @@ jobs:
   imthebest:
     runs-on: ubuntu-latest
     steps:
-      - run: | echo "You are the best!"
+      - run: echo "You are the best!"
